@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>BMI and Interest Rate Calculator</title>
-	<link rel="stylesheet" type="text/css" href="bmi calculatrice.css">
+	<link rel="stylesheet" href="bmi calculatrice.css">
 </head>
 <body>
 	<header>
