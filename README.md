@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>BMI and Interest Rate Calculator</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="bmi calculatrice.css">
 </head>
 <body>
 	<header>
@@ -28,6 +28,6 @@
 		<button onclick="calculateInterest()">Calculate</button>
 		<p>Your interest earned is: <span id="interest"></span></p>
 	</div>
-	<script src="script.js"></script>
+	<script src="bmi calculator.js"></script>
 </body>
 </html>
